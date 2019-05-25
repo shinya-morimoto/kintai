@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* 
+* 
+* # Ruby on Rails で開発してみよう
+
+  ## このチュートリアルではRuby on Railsを実践的に学習します。
